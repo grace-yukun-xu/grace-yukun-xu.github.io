@@ -30,11 +30,12 @@ $(document).ready(function () {
         title: lang === "fa" ? faNavbarData.Jobs : enNavbarData.Jobs,
         url: "/jobs.html",
       },
-      {
-        active: navbarLinks.contact ? true : false,
-        title: lang === "fa" ? faNavbarData.Contact : enNavbarData.Contact,
-        url: "/contact.html",
-      },
+      // 去掉contact键
+      //{
+      //  active: navbarLinks.contact ? true : false,
+      //  title: lang === "fa" ? faNavbarData.Contact : enNavbarData.Contact,
+      //  url: "/contact.html",
+      //},
     ],
   };
 
