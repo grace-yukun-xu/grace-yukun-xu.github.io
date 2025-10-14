@@ -5,8 +5,8 @@ const navbarLinks = {
   jobs: true,
   contact: true,
   cv: true,
-  r_state: true, //research statement
-  t_state: true //teaching statement
+  r_state: false, //research statement
+  t_state: false //teaching statement
 };
 
 const globalData = {
