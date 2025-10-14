@@ -11,7 +11,7 @@ const enNavbarData = {
 // ---------- Home page data
 const enHomePageData = {
   name: "Grace Y. Xu",
-  jobTitle: " Job title ",
+  jobTitle: "1st year PhD student",
   home_title: "About me",
   home_content: `
   <div>
