@@ -6,7 +6,7 @@ $(document).ready(function () {
   }
 
   const navbar_data = {
-    title: lang === "fa" ? faNavbarData.title : enNavbarData.title,
+    title: lang === "fa" ? faNavbarData.title : "Home",
     navbar_links: [
       // 去掉home键
       //{
