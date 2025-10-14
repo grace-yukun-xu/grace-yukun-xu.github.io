@@ -10,7 +10,7 @@ const enNavbarData = {
 
 // ---------- Home page data
 const enHomePageData = {
-  name: " Your name ",
+  name: "Grace Y. Xu",
   jobTitle: " Job title ",
   home_title: "About me",
   home_content: `
