@@ -39,14 +39,14 @@ $(document).ready(function () {
         img: "../assets/images/icons/mail.png",
       },
       {
-        name: globalData.whatsapp,
-        active: globalData.whatsapp ? true : false,
-        img: "../assets/images/icons/whatsapp.png",
+        name: globalData.orcid,
+        active: globalData.orcid ? true : false,
+        img: "../assets/images/icons/orcid.png",
       },
       {
-        name: globalData.twitter,
-        active: globalData.twitter ? true : false,
-        img: "../assets/images/icons/twitter.png",
+        name: globalData.googleScholar,
+        active: globalData.googleScholar ? true : false,
+        img: "../assets/images/icons/google-scholar.png",
       },
       {
         name: globalData.linkedin,
