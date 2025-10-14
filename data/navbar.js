@@ -8,11 +8,12 @@ $(document).ready(function () {
   const navbar_data = {
     title: lang === "fa" ? faNavbarData.title : enNavbarData.title,
     navbar_links: [
-      {
-        active: navbarLinks.home ? true : false,
-        title: lang === "fa" ? faNavbarData.Home : enNavbarData.Home,
-        url: "/",
-      },
+      // 去掉home键
+      //{
+      //  active: navbarLinks.home ? true : false,
+      //  title: lang === "fa" ? faNavbarData.Home : enNavbarData.Home,
+      //  url: "/",
+      //},
       {
         active: navbarLinks.publications ? true : false,
         title:
