@@ -17,7 +17,7 @@ $(document).ready(function () {
       {
         active: navbarLinks.publications ? true : false,
         title:
-          lang === "fa" ? faNavbarData.Publications : enNavbarData.Publications,
+          lang === "fa" ? faNavbarData.publications : "Publications",
         url: "/publications.html",
       },
       {
