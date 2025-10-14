@@ -36,6 +36,21 @@ $(document).ready(function () {
       //  title: lang === "fa" ? faNavbarData.Contact : enNavbarData.Contact,
       //  url: "/contact.html",
       //},
+      {
+        active: navbarLinks.cv ? true : false,
+        title: lang === "fa" ? faNavbarData.Jobs : "CV",
+        url: "../files/cv_july.pdf",
+      },
+      {
+        active: navbarLinks.r_state ? true : false,
+        title: lang === "fa" ? faNavbarData.Jobs : "Research Statement",
+        url: "",
+      },
+      {
+        active: navbarLinks.t_state ? true : false,
+        title: lang === "fa" ? faNavbarData.Jobs : "Teaching Statement",
+        url: "",
+      },
     ],
   };
 
