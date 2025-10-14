@@ -2,7 +2,7 @@ $(document).ready(function () {
   let lang = localStorage.getItem("lang");
 
   if (!lang) {
-    localStorage.setItem("en");
+    localStorage.setItem("lang", "en");
   }
 
   const navbar_data = {
