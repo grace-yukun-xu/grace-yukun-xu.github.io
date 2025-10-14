@@ -12,6 +12,8 @@ const navbarLinks = {
 const globalData = {
   image: "../files/bio.jpg",
   resume: "../files/cv_july.pdf",
+  r_state:"",
+  t_state:"",
   enAddress: "",
   faAddress: "",
   phone: "",
