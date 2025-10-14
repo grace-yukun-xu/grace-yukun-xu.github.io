@@ -8,7 +8,7 @@ const navbarLinks = {
 
 const globalData = {
   image: "../files/bio.jpg",
-  resume: "../files/cv7.20.pdf",
+  resume: "../files/cv_july.pdf",
   enAddress: "",
   faAddress: "",
   phone: "",
