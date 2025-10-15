@@ -2,7 +2,7 @@
 const enNavbarData = {
   title: " Your name ",
   Home: "Home",
-  publications: "publications",
+  Publications: "Publications",
   Research: "Research",
   Jobs: "Jobs",
   Contact: "Contact",
@@ -11,20 +11,20 @@ const enNavbarData = {
 // ---------- Home page data
 const enHomePageData = {
   name: "Grace Y. Xu",
-  jobTitle: "1st year PhD student",
+  jobTitle: "she/her",
   home_title: "About me",
   home_content: `
   <div>
-    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.
-      ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-      Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    <p> Hi! Welcome to my personal website. I'm Grace, a first-year Ph.D. student in the Curriculum, Instruction, and Science of Learning program at the University at Buffalo. 
+    My master's degree was in Learning Design and Technology at Stanford University, and I double majored in Elementary Education and Child Development during my undergrad at Vanderbilt University. 
+    My research interest is in exploring how young children, particularly those in grades K-2, interact with technology in classroom settings. I'm also interested in designing (and researching) technology-enhanced learning environments that empower young students to learn about the world and about themselves. 
     </p>
-    <h2 class='title'> Main works </h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas purus viverra accumsan in nisl nisi. Arcu cursus vitae congue mauris rhoncus aenean vel elit scelerisque. In egestas erat imperdiet sed euismod nisi porta lorem mollis. Morbi tristique senectus et netus. Mattis pellentesque id nibh  </p>
+    <h2 class='title'> Key research interests </h2>
     <ul>
-      <li> Heuristics</li>
-      <li> Policy planning </li>
-      <li> Flexiblity to details </li>
+      <li> Learning sciences</li>
+      <li> Early childhood/elementary education </li>
+      <li> Design-based research </li>
+      <li> Educational technology </li>
     </ul>
   </div>
   `,
