@@ -22,7 +22,7 @@ Here you can check Demo online:
 ## Getting started
 This is the instruction written by Grace Xu at University at Buffalo.
 
-*Note: _ChatGPT does know most of the things, if you ever run into a problem that I didn’t mention. The only thing it struggles a little is knowing which section has the right code, so I focused mainly on where everything is located at. For code assistance, you can usually just copy&paste the section of the code and ask AI how to change this code. Do inform it that you are writing in a js file (I think the coding language is JavaScript?). _
+*Note: ChatGPT does know most of the things, if you ever run into a problem that I didn’t mention. The only thing it struggles a little is knowing which section has the right code, so I focused mainly on where everything is located at. For code assistance, you can usually just copy&paste the section of the code and ask AI how to change this code. Do inform it that you are writing in a js file (I think the coding language is JavaScript?).
 
 Creating Github account
 - https://github.com/
