@@ -6,7 +6,7 @@ const enNavbarData = {
   Research: "Research",
   Jobs: "Jobs",
   Contact: "Contact",
-  CV: "CV",
+  cv: "CV",
 };
 
 // ---------- Home page data
