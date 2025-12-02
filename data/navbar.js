@@ -38,7 +38,7 @@ $(document).ready(function () {
       //},
       {
         active: navbarLinks.cv ? true : false,
-        title: lang === "fa" ? faNavbarData.Jobs : "CV",
+        title: lang === "fa" ? faNavbarData.cv : "CV",
         url: "../files/CV_updated_Dec_2025.pdf",
       },
       {
