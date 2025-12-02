@@ -6,12 +6,13 @@ const navbarLinks = {
   contact: true,
   cv: true,
   r_state: false, //research statement
-  t_state: false //teaching statement
+  t_state: false, //teaching statement
+  archived: false
 };
 
 const globalData = {
   image: "../files/bio.jpg",
-  resume: "../files/cv_july.pdf",
+  resume: "../files/CV_updated_Dec_2025.pdf",
   r_state:"",
   t_state:"",
   enAddress: "",
