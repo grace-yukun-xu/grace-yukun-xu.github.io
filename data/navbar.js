@@ -51,6 +51,11 @@ $(document).ready(function () {
         title: lang === "fa" ? faNavbarData.Jobs : "Teaching Statement",
         url: "",
       },
+      {
+        active: navbarLinks.archived ? true : false,
+        title: lang === "fa" ? faNavbarData.Jobs : "Archived Links",
+        url: "",
+      },
     ],
   };
 
