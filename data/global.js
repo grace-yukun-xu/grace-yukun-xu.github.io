@@ -12,7 +12,7 @@ const navbarLinks = {
 
 const globalData = {
   image: "../files/bio.jpg",
-  resume: "../files/CV_updated_Dec_2025.pdf",
+  resume: "../files/CV_updated_Mar_2026.pdf",
   r_state:"",
   t_state:"",
   enAddress: "",
