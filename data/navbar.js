@@ -39,7 +39,7 @@ $(document).ready(function () {
       {
         active: navbarLinks.cv ? true : false,
         title: lang === "fa" ? faNavbarData.cv : "CV",
-        url: "../files/CV_updated_Dec_2025.pdf",
+        url: "../files/CV_updated_Mar_2026.pdf",
       },
       {
         active: navbarLinks.r_state ? true : false,
